@@ -7,7 +7,7 @@ input {
 button {
   width: 120px;
   height: 36px;
-  border: 1px solid lightgrey;
+  border-color: lightgrey;
   background-color: khaki;
 }
 
